@@ -1,0 +1,22 @@
+$bg-color: #000000;
+$header-color: #2748b3;
+$text-color: #7C81AD;
+$block-color: #000000;
+
+@import 'style';
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px ;
+    border-radius: 10px;
+  }
+  
+  .blue{
+    background-color: blue;
+  }
+  
+  .red{
+    background-color: red;
+  }
